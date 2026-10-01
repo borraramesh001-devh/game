@@ -10,4 +10,3 @@ Main features:
 ⭐ Score: Players can earn points by completing levels, collecting items, or winning races.
 🚧 Obstacles: Roads can contain obstacles that the player must avoid.
 🔧 Car Selection: Players can choose different cars with different speeds and abilities.
-🎮 Controls: Keyboard, touchscreen, or game controller can be used.
